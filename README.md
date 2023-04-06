@@ -3,8 +3,8 @@ Eai, bão? 👋
 
 <div>
   <a href='https://github.com/IgorGomesFATEC'>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api?username=FelipeDieguez10&theme=gotham&show_icons=true&include_all_commits=true&count_private=true'/>
-    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDieguez10&layout=compact&langs_count=16&theme=gotham'/>
+    <img height='170em' src='https://github-readme-stats.vercel.app/api?username=FelipeDieguez10&theme=gotham&show_icons=true&include_all_commits=true&count_private=true'/>
+    <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDieguez10&layout=compact&langs_count=16&theme=gotham'/>
  </a>
 </div>
 <div style='display: inline-block'><br>
