@@ -1,5 +1,3 @@
-Eai, bão? 👋
-
 
 <div>
   <a href='https://github.com/FelipeDieguez10'>
