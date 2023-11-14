@@ -26,6 +26,7 @@
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target="_blank">
   </a>
 </div>
-<div>
+<!-- <div>
     <h4>e-mail para contato: felipedeoliveiradieguez@gmail.com</h4>
 </div>
+ -->
