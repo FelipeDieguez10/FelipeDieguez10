@@ -13,6 +13,7 @@
   <img align='center' alt='Igor-FLUTTER' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
   <img align='center' alt='Igor-DART' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
   <img align='center' alt='Igor-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align='center' alt='Igor-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div>
 <hr>
 <div>
