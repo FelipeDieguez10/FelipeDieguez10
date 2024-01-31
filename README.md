@@ -6,16 +6,15 @@
    </a>
 </div> -->
 <div style='display: inline-block'><br>
-    <img align='center' alt='Igor-HTML' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img align='center' alt='Igor-CSS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img align='center' alt='Igor-JS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />      
-    <img align='center' alt='Igor-CSHARP' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-    <img align='center' alt='Igor-FLUTTER' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-    <img align='center' alt='Igor-DART' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
-    <img align='center' alt='Igor-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img align='center' alt='Igor-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-    <img align='center' alt='Igor-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-    
+    <img align='center' alt='Felipe-HTML' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align='center' alt='Felipe-CSS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align='center' alt='Felipe-JS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />      
+    <img align='center' alt='Felipe-CSHARP' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+    <img align='center' alt='Felipe-C' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+    <img align='center' alt='Felipe-FLUTTER' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+    <img align='center' alt='Felipe-DART' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
+    <img align='center' alt='Felipe-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align='center' alt='Felipe-JAVA' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div>
 <hr>
 <div>
