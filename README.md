@@ -15,6 +15,7 @@
     <img align='center' alt='Felipe-DART' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
     <img align='center' alt='Felipe-PHP' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img align='center' alt='Felipe-JAVA' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    <img align='center' alt='Felipe-JAVA' height= '30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-plain.svg" />
 </div>
 <hr>
 <div>
