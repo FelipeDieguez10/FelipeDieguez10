@@ -5,6 +5,11 @@
       <img height='180em' src='https://github-readme-stats.vercel.app/api/wakatime?username=FelipeDieguez10&layout=compact&theme=gotham'/>
    </a>
 </div> -->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!+👋;+Me+chamo+Felipe🙏!;🖥️Bem+vindo+ao+meu+perfil!🖥️"/>
+</h1>
+
 <div style='display: inline-block'><br>
     <img align='center' alt='Felipe-HTML' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img align='center' alt='Felipe-CSS' height= '30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
