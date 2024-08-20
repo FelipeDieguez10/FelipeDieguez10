@@ -7,7 +7,7 @@
 </div> -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!+👋;+Me+chamo+Felipe🙏!;🖥️Bem+vindo+ao+meu+perfil!🖥️"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+Word!+👋;+Meu+Nome+é+Felipe🙏!;🖥️Bem+vindo+ao+meu+perfil!🖥️"/>
 </h1>
 
 ![Felipe Dieguez GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDieguez10&show_icons=true&theme=radical)
