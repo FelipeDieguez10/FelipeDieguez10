@@ -83,10 +83,10 @@
 
 ###
 
-<picture align="center">
+<!-- <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeDieguez10/FelipeDieguez10/output/github-contribution-grid-snake-light.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelipeDieguez10/FelipeDieguez10/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 <!-- <img src="https://raw.githubusercontent.com/FelipeDieguez10/FelipeDieguez10/output/snake.svg" alt="Snake animation" /> -->
 
 ###
